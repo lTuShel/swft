@@ -1,0 +1,31 @@
+.download {
+    padding: 4px;
+    width: 200px;
+    margin: 5px;
+    text-align: center;
+    outline: none;
+    background-color: #222831;
+    box-shadow: 10px;
+    color: rgba(245, 245, 245, 0.562);
+    background-clip: padding-box;
+    border: 1px solid #36455c67;
+    border-radius: 10px;
+    font-family:'Comic Sans MS';
+}
+
+.download_after {
+    text-align: center;
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+.download {
+    text-align: center;
+    box-shadow: 2px 2px 80px 20px #36455c;
+}
+
+.download:hover {
+    background-color: #393e46b4;
+    border-color: #393e46;
+    box-shadow: 2px 2px 80px 20px #546b8f;
+}

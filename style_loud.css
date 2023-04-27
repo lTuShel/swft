@@ -1,0 +1,58 @@
+.form_loading {
+    text-align: center;
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+.txt_hello {
+    margin-bottom: 0.5px;
+    color: whitesmoke;
+    font-size: 20px;
+    font-family:'Comic Sans MS';
+}
+
+.key {
+    padding: 4px;
+    width: 250px;
+    margin: 5px;
+    text-align: center;
+    outline: none;
+    background-color: #222831;
+    box-shadow: 10px;
+    color: rgba(245, 245, 245, 0.562);
+    background-clip: padding-box;
+    border: 2px solid #36455c;
+    border-radius: 10px;
+    font-family:'Comic Sans MS';
+}
+
+.submit {
+    border: none;
+    color: whitesmoke;
+    background-color: #2a3647;
+    border-radius: 10px;
+    padding: 6px;
+    width: 130px;
+    font-family:'Comic Sans MS';
+    text-align: center;
+    margin-left: 65px;
+    margin-top: 6px;
+}
+
+#result_false {
+    color: rgba(133, 25, 25, 0.74);
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+#result_true {
+    color: rgba(14, 107, 45, 0.74);
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.form_one {
+    display: inline-grid;
+}
